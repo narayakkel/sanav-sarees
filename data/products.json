@@ -1,0 +1,82 @@
+{
+  "items": [
+    {
+      "name": "Royal Blue Kanchipuram Silk Saree",
+      "description": "A stunning royal blue Kanchipuram silk saree with rich pink and gold zari border. Intricate temple motifs woven throughout — perfect for weddings and grand celebrations.",
+      "price": "DM for Price",
+      "sizes": "6.3 meters (with blouse piece)",
+      "photo": "assets/images/products/ChatGPT Image Apr 2, 2026, 07_19_19 PM.png",
+      "badge": "Bestseller",
+      "fabric": "Pure Kanchipuram Silk",
+      "occasion": "Wedding",
+      "stock": "",
+      "featured": true,
+      "whatsapp": "917777777777"
+    },
+    {
+      "name": "Traditional Green & Pink Pattu Saree",
+      "description": "Elegant green and pink pattu saree with golden zari work. A timeless combination that celebrates Indian heritage with every drape.",
+      "price": "DM for Price",
+      "sizes": "6.3 meters (with blouse piece)",
+      "photo": "assets/images/products/ChatGPT Image Apr 2, 2026, 07_20_28 PM.png",
+      "badge": "Bestseller",
+      "fabric": "Pure Silk Pattu",
+      "occasion": "Festive",
+      "stock": "",
+      "featured": false,
+      "whatsapp": "917777777777"
+    },
+    {
+      "name": "Coral Pink Kanchipuram Silk Saree",
+      "description": "Radiant coral pink silk saree with a lustrous golden zari border. Light yet regal — ideal for temple visits, festivals, and family gatherings.",
+      "price": "DM for Price",
+      "sizes": "6.3 meters (with blouse piece)",
+      "photo": "assets/images/products/ChatGPT Image Apr 2, 2026, 07_21_02 PM.png",
+      "badge": "New Arrival",
+      "fabric": "Kanchipuram Silk",
+      "occasion": "Festive",
+      "stock": "Selling Fast",
+      "featured": false,
+      "whatsapp": "917777777777"
+    },
+    {
+      "name": "Silver Grey Cotton Silk Saree",
+      "description": "Graceful silver grey cotton silk saree with soft pink zari border. Lightweight and breathable — perfect for daily elegance and office wear.",
+      "price": "DM for Price",
+      "sizes": "6.3 meters (with blouse piece)",
+      "photo": "assets/images/products/ChatGPT Image Apr 2, 2026, 07_21_40 PM.png",
+      "badge": "",
+      "fabric": "Cotton Silk Blend",
+      "occasion": "Daily Wear",
+      "stock": "",
+      "featured": false,
+      "whatsapp": "917777777777"
+    },
+    {
+      "name": "Golden Yellow Silk Saree",
+      "description": "Vibrant golden yellow silk saree with a rich purple and gold contrast border. A bold statement piece that turns heads at any celebration.",
+      "price": "DM for Price",
+      "sizes": "6.3 meters (with blouse piece)",
+      "photo": "assets/images/products/ChatGPT Image Apr 2, 2026, 07_22_20 PM.png",
+      "badge": "New Arrival",
+      "fabric": "Pure Silk",
+      "occasion": "Festive",
+      "stock": "",
+      "featured": false,
+      "whatsapp": "917777777777"
+    },
+    {
+      "name": "Rose Pink Kanchipuram Silk Saree",
+      "description": "Exquisite rose pink Kanchipuram silk saree with traditional gold zari weaving. A bridal favourite that radiates grace and grandeur.",
+      "price": "DM for Price",
+      "sizes": "6.3 meters (with blouse piece)",
+      "photo": "assets/images/products/a-stunning-portrait-photograph-of-an-ele_7Qx_ySDlTlS-7xRPOQdHkw_02iRtfqASaWpLFvzlG_wlw_cover.png",
+      "badge": "Bestseller",
+      "fabric": "Kanchipuram Silk",
+      "occasion": "Wedding",
+      "stock": "",
+      "featured": false,
+      "whatsapp": "917777777777"
+    }
+  ]
+}

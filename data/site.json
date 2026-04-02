@@ -1,0 +1,43 @@
+{
+  "brand_photo": "assets/images/banners/ChatGPT Image Apr 2, 2026, 07_16_44 PM.png",
+  "journal": [
+    { "image": "assets/images/instagram/a-stunning-fashion-photograph-of-an-eleg_wiENJEWGThOzGAhKAu2qhA_RuklaZCJTfCjxkkvESghIA.png" },
+    { "image": "assets/images/instagram/a-stunning-fashion-photograph-of-an-eleg_aaHOBMiQRBWDna3wimK6pg_hkZOLivKTTOsl0mGXWt3ZA_cover.png" },
+    { "image": "assets/images/instagram/a-stunning-fashion-portrait-of-an-elegan_NiWcItrWSjeFvn8CuIyb7g_RS6Wqo4ZSuSIssC5hQcCqA_cover.png" },
+    { "image": "assets/images/instagram/a-stunning-fashion-photograph-of-an-eleg_ZKptiZbSQki4KE2GZeM_4A_7J9xSvV_SXqOPB2ifbI7jw_cover.png" }
+  ],
+  "marquee_items": [
+    { "text": "Kanchipuram Silk" },
+    { "text": "Cotton Sarees" },
+    { "text": "Pattu Sarees" },
+    { "text": "Silk Stories" },
+    { "text": "New Arrivals" },
+    { "text": "Best Sellers" }
+  ],
+  "countdown_enabled": false,
+  "countdown_label": "Sale ends in",
+  "countdown_date": "",
+  "footer_collections": [
+    { "name": "Silk Sarees" },
+    { "name": "Cotton Sarees" },
+    { "name": "New Arrivals" },
+    { "name": "Best Sellers" }
+  ],
+  "site_url": "https://sanavsarees.com",
+  "instagram_handle": "@sanav_sarees",
+  "catalogue_enabled": false,
+  "catalogue_mode": "manual",
+  "catalogue_heading": "Explore Our Full Collection",
+  "catalogue_subtext": "Get our latest saree catalogue with all designs, weaves and prices sent directly to your WhatsApp.",
+  "catalogue_message": "Hi SANAV Sarees! I'd like to receive your full saree catalogue. Please send it to me. Thank you!",
+  "trust_badges": [
+    { "icon": "check", "text": "100% Authentic Weaves" },
+    { "icon": "hand", "text": "Handpicked Sarees" },
+    { "icon": "truck", "text": "Pan India Delivery" },
+    { "icon": "heart", "text": "Woven with Love" }
+  ],
+  "video_enabled": false,
+  "video_url": "",
+  "video_heading": "Our Story",
+  "video_subtext": "Watch how we handpick every saree with love and care."
+}
