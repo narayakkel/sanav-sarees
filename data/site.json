@@ -14,9 +14,9 @@
     { "text": "New Arrivals" },
     { "text": "Best Sellers" }
   ],
-  "countdown_enabled": false,
+  "countdown_enabled": true,
   "countdown_label": "Sale ends in",
-  "countdown_date": "",
+  "countdown_date": "2026-04-10T23:59:00",
   "footer_collections": [
     { "name": "Silk Sarees" },
     { "name": "Cotton Sarees" },
@@ -25,7 +25,7 @@
   ],
   "site_url": "https://sanavsarees.com",
   "instagram_handle": "@sanav_sarees",
-  "catalogue_enabled": false,
+  "catalogue_enabled": true,
   "catalogue_mode": "manual",
   "catalogue_heading": "Explore Our Full Collection",
   "catalogue_subtext": "Get our latest saree catalogue with all designs, weaves and prices sent directly to your WhatsApp.",
@@ -36,7 +36,7 @@
     { "icon": "truck", "text": "Pan India Delivery" },
     { "icon": "heart", "text": "Woven with Love" }
   ],
-  "video_enabled": false,
+  "video_enabled": true,
   "video_url": "",
   "video_heading": "Our Story",
   "video_subtext": "Watch how we handpick every saree with love and care."

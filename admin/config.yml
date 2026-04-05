@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: narayakkel/instagram-seller
+  repo: narayakkel/sanav-sarees
   branch: main
 
 media_folder: "assets/images"
